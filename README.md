@@ -1,2 +1,12 @@
-# Google-Capstone-Project_Cyclistic-Case
-Capstone project under Google Data Analytics Professional Certification by Coursera.
+# Google Capstone Project: Cyclistic Case
+#### Capstone project under Google Data Analytics Professional Certification by Coursera: Cyclistic Cast Study
+The objective of this project is to use my knowledge of SQL , R and Tableau to solve the business problem of the case which is to answer the question: How do annual members and casual riders use Cyclistic bikes differently?
+You can find the case ([here](https://drive.google.com/file/d/1-6a4CHEtuF88Lxxebni4aRVlFC4ooUED/view?usp=drive_link))
+
+To see the detailed step by step guide and findings, click ([here](https://mukitspersonalworkspace.notion.site/Google-Capstone-project-Cyclist-Case-Study-eeb9ef041233486490daefc34ce6ef09?pvs=4))
+
+All Codes are provided in this GitHub Repository.
+
+To see the detailed Dashboards and Viz on Tableau click ([here](https://public.tableau.com/app/profile/mukit.hyder/viz/working_16916494642590/CompleteAnalysisDashboard))
+
+Skills: SQL/R/Tableau
